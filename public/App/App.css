@@ -30,10 +30,12 @@ body {
 
 .logo {
   height: 8vh;
+  margin-bottom: 15px;
 }
 
 .login {
   font-size: 15px;
+  margin-bottom: 15px;
   float: right;
 }
 
